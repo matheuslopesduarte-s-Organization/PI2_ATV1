@@ -55,5 +55,18 @@ main{
     background-color: aqua;
     border-radius: .5rem ;
 }
+.sobremim{
+    margin: auto;
+    margin-top: 3rem;
+    width: 50%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    align-items: center;
+    font-family: sans-serif;
+    height: 400px;
+    background-color: aquamarine;
+    border-radius: .5rem;
+}
     
     
