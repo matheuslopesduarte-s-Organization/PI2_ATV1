@@ -100,6 +100,19 @@ header > h1{
     text-align: center;
     width: 400px;
 }   
+.corpoContato{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    width: 50%;
+    margin: auto;
+    background-color: aquamarine;
+    border-radius: .5rem;
+    height: 300px;
+    font-family: sans-serif;
+}
 .mensgNoticias{
         display: flex;
         justify-content: center;
@@ -113,6 +126,7 @@ header > h1{
         font-size: 22px;
         background-color: #333;
         color: white;
+}
 .corpoProjeto{
         display: flex;
         justify-content: center;
