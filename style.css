@@ -34,14 +34,19 @@ body{
     flex-direction: row;
     margin-top: 50px;
     padding-left: 100px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .integrantes{
     width: 400px;
-    height: 400px;
+    height: 410px;
     border: 1px solid black;
     display: flex;
     padding: 10px;
     border-radius: 10px;
+    margin: 12px;
+    flex-direction: column;
+    align-items: center;
 }
 img{
     width: 100%;
