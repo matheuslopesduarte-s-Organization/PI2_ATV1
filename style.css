@@ -100,3 +100,21 @@ header > h1{
     text-align: center;
     width: 400px;
 }   
+.corpoProjeto{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 3rem;
+        width: 80%;
+        height: 150px;
+        margin: auto;
+        border-radius: .50rem;
+        background-color: #333;
+        color: white;
+        font-family: sans-serif;
+}
+.corpoProjeto > a{
+        text-decoration: none;
+        color: white;
+}
